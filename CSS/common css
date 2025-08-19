@@ -1,1 +1,28 @@
-
+*{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.h-font{
+  font-family: "Merienda", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+.custom-bg{
+  background-color: #2ec1ac;
+  border: 1px solid #2ec1ac;
+}
+.custom-bg:hover{
+  background-color: black;
+  border-color: black;
+}
+.Availability-form{
+  margin-top: -50px;
+  z-index: 2;
+  position: relative;
+}
+.h-line{
+  width: 150px;
+  margin: 0 auto;
+  height: 1.7px;
+}
